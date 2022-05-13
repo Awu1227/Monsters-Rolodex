@@ -6,7 +6,7 @@ The main branch is the hooks version, you can check the class version by selecti
 
 Project Overview: [Monsters Rolodex](https://ej1gsg.codesandbox.io/)
 # How to use
-> git clone https://github.com/Awu1227/Monsters-Colodex.git
+> git clone https://github.com/Awu1227/Monsters-Rolodex.git
 
 > npm i
 
